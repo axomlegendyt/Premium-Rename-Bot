@@ -24,11 +24,11 @@ async def upgrade(bot,update):
 	Pay Using Upi I'd ```biswajit.5@paytm```
 	
 	After Payment Send Screenshots Of 
-        Payment To Admin @Boruto_XD"""
+        Payment To Admin """
 	keybord = InlineKeyboardMarkup([[ 
-        			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/mRiderDM")], 
-        			[InlineKeyboardButton("Paytm",url = "https://p.paytm.me/xCTH/vo37hii9"),
-        			InlineKeyboardButton("Paytm",url = "https://p.paytm.me/xCTH/vo37hii9")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
+        			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/Boruto_XD")], 
+        			[InlineKeyboardButton("Paytm",url = "https://t.me/Boruto_XD"),
+        			InlineKeyboardButton("Paytm",url = "https://t.me/Boruto_XD")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
 	await update.message.edit(text = text,reply_markup = keybord)
 	
 
@@ -54,7 +54,7 @@ async def upgradecm(bot,message):
 	Pay Using Upi I'd ```biswajit.5@paytm```
 	
 	After Payment Send Screenshots Of 
-        Payment To Admin @Boruto_XD"""
+        Payment To Admin """
 	keybord = InlineKeyboardMarkup([[ 
         			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/Boruto_XD")], 
         			[InlineKeyboardButton("Paytm",url = "https://t.me/Boruto_XD),
