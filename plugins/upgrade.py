@@ -10,7 +10,7 @@ async def upgrade(bot,update):
 	
 	**🪙 Silver Tier 🪙** 
 	Daily  Upload  limit 10GB
-	Price Rs 66  ind /🌎 0.8$  per Month
+	Price Rs 50  ind /🌎 0.6$  per Month
 	
 	**💫 Gold Tier 💫**
 	Daily Upload limit 50GB
@@ -18,13 +18,13 @@ async def upgrade(bot,update):
 	
 	**💎 Diamond 💎**
 	Daily Upload limit 100GB
-	Price Rs 206  ind /🌎 2.5$  per Month
+	Price Rs 200  ind /🌎 2.4$  per Month
 	
 	
-	Pay Using Upi I'd ```7808912076@paytm```
+	Pay Using Upi I'd ```biswajit.5@paytm```
 	
 	After Payment Send Screenshots Of 
-        Payment To Admin @mRiderDM"""
+        Payment To Admin @Boruto_XD"""
 	keybord = InlineKeyboardMarkup([[ 
         			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/mRiderDM")], 
         			[InlineKeyboardButton("Paytm",url = "https://p.paytm.me/xCTH/vo37hii9"),
@@ -40,7 +40,7 @@ async def upgradecm(bot,message):
 	
 	**🪙 Silver Tier 🪙** 
 	Daily  Upload  limit 10GB
-	Price Rs 66  ind /🌎 0.8$  per Month
+	Price Rs 50  ind /🌎 0.6$  per Month
 	
 	**💫 Gold Tier 💫**
 	Daily Upload limit 50GB
@@ -48,15 +48,15 @@ async def upgradecm(bot,message):
 	
 	**💎 Diamond 💎**
 	Daily Upload limit 100GB
-	Price Rs 206  ind /🌎 2.5$  per Month
+	Price Rs 200 ind /🌎 2.4$  per Month
 	
 	
-	Pay Using Upi I'd ```7808912076@paytm```
+	Pay Using Upi I'd ```biswajit.5@paytm```
 	
 	After Payment Send Screenshots Of 
-        Payment To Admin @mRiderDM"""
+        Payment To Admin @Boruto_XD"""
 	keybord = InlineKeyboardMarkup([[ 
-        			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/mRiDerDM")], 
-        			[InlineKeyboardButton("Paytm",url = "https://p.paytm.me/xCTH/vo37hii9"),
-        			InlineKeyboardButton("Paytm",url = "https://p.paytm.me/xCTH/vo37hii9")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
+        			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/Boruto_XD")], 
+        			[InlineKeyboardButton("Paytm",url = "https://t.me/Boruto_XD),
+        			InlineKeyboardButton("Paytm",url = "https://t.me/Boruto_XD")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
 	await message.reply_text(text = text,reply_markup = keybord)
